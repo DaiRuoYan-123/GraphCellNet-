@@ -7,7 +7,7 @@
 * [Requirements](#Requirements)
 
 * Tutorials
-    * [Deconvolution ]()
+    * [Deconvolution ](Visium_human_DLPFC_deconv.ipynb)
     * [Spatial domain recognition]()
 
 
