@@ -8,7 +8,7 @@
 
 * Tutorials
     * [Deconvolution ](Visium_human_DLPFC_deconv.ipynb)
-    * [Spatial domain recognition]()
+    * [Spatial domain recognition](Graph_model/Visium_human_DLPFC_Graph.ipynb)
 
 
 
