@@ -7,7 +7,7 @@
 * [Requirements](#Requirements)
 
 * Tutorials
-    * [Deconvolution ](Visium_human_DLPFC_deconv.ipynb)
+    * [Deconvolution ](GraphCellNet-m/GraphCellNet/Visium_human_DLPFC_deconv.ipynb)
     * [Spatial domain recognition](Graph_model/Visium_human_DLPFC_Graph.ipynb)
 
 
