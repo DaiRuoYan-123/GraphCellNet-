@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: GraphCellNet
+Version: 1.0.0
+Summary: GraphCellNet: A Deep Learning Method for Integrated Single-Cell and Spatial Transcriptomic Analysis with Applications in Development and Disease
+Home-page: https://github.com/DaiRuoYan-123/GraphCellNet-
+Author: RuoyanDai
+Author-email: dai1281311965@gmail.com
+License: MIT
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+GraphCellNet: A Deep Learning Method for Integrated Single-Cell and Spatial Transcriptomic Analysis with Applications in Development and Disease
