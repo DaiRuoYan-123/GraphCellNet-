@@ -25,7 +25,8 @@ rpy2 == 3.5.16
 matplotlib == 3.7.2  
 tqdm == 4.64.1  
 scikit-learn == 1.4.1.post1  
-pip3 install torch==1.12.1.0+cu113 torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113 （GPU） 
+# CUDA 11.3
+pip install torch==1.12.0+cu113 torchvision==0.13.0+cu113 torchaudio==0.12.0 --extra-index-url https://download.pytorch.org/whl/cu113 （GPU） 
 
 pip3 install torch==1.12.1 torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu  （CPU）    
 ## install
@@ -34,7 +35,8 @@ conda activate GraphCellNet
 ## step1 Installing PyTorch’s CUDA support or CPU support on Linux
 pip3 install torch==1.12.1.0+cu113 torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113 （GPU） 
 
-pip3 install torch==1.12.1 torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu  （CPU）
+# CPU only
+pip install torch==1.12.0+cpu torchvision==0.13.0+cpu torchaudio==0.12.0 --extra-index-url https://download.pytorch.org/whl/cpu  （CPU）
 ## step2 Download dependencies
 pip install -r requirements.txt
 pip install GraphCellNet==1.0.0
